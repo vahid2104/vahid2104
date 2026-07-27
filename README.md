@@ -22,27 +22,25 @@
 
 - Frontend and Full-Stack Developer
 - Master's student in Computer Science
-- Experienced with modern web applications and REST APIs
+- Experienced in building modern web applications and REST APIs
 - Interested in AI-powered products and scalable software
 - Open to international and remote opportunities
 
 ## Tech Stack
 
-**Frontend**
+<p align="left">
+  <img
+    src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,firebase,tailwind,git,github,vercel,vscode,figma,postman"
+    alt="Technology stack"
+  />
+</p>
 
-React · Next.js · TypeScript · JavaScript · Tailwind CSS · HTML · CSS
+## Currently Learning
 
-**Backend**
-
-Node.js · Express.js · REST APIs · JWT · Socket.IO
-
-**Database & Services**
-
-MongoDB · Mongoose · Firebase · OpenAI API
-
-**Tools**
-
-Git · GitHub · Postman · Vercel · Render · Figma
+- Artificial Intelligence Engineering
+- Python
+- Machine Learning
+- System Design
 
 ## Selected Projects
 
@@ -60,17 +58,56 @@ Full-stack platform that analyzes source code and provides AI-generated feedback
 
 ### Portfolio Website
 
-Modern and responsive personal portfolio showcasing my experience, skills and software projects.
+Modern and responsive personal portfolio showcasing my experience, technical skills and software projects.
 
 **Tech:** Next.js, TypeScript, Tailwind CSS, Framer Motion
 
 <p align="center">
-  <strong>Explore all projects, live demos and repositories:</strong>
+  <strong>Explore all projects, live demos and repositories</strong>
 </p>
 
 <p align="center">
   <a href="https://vahidaliyev.com">
     vahidaliyev.com
+  </a>
+</p>
+
+## GitHub Statistics
+
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=vahid2104&show_icons=true&theme=github_dark&hide_border=true"
+    alt="Vahid's GitHub statistics"
+  />
+
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vahid2104&layout=compact&theme=github_dark&hide_border=true"
+    alt="Most used programming languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=vahid2104&theme=github-dark&hide_border=true"
+    alt="GitHub contribution streak"
+  />
+</p>
+
+## Connect With Me
+
+<p align="left">
+  <a href="https://vahidaliyev.com">
+    Portfolio
+  </a>
+  ·
+  <a href="https://www.linkedin.com/in/vahid-aliyev-front-end-developer/">
+    LinkedIn
+  </a>
+  ·
+  <a href="mailto:vahid.aliyev.03@gmail.com">
+    Email
   </a>
 </p>
 
